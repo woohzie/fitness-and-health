@@ -11,4 +11,4 @@
 - ✅ Health status feedback (Underweight, Normal, Overweight, Obese)
 - 🤖 AI Chatbot that provides interactive health tips and BMI-related advice
 - 🧠 Early health risk prediction based on BMI trends (Planned)
-- 👨‍⚕️ Consultation with a certified doctor\*\* for professional health advice (Planned)
+- 👨‍⚕️ Consultation with a certified doctor for professional health advice (Planned)
